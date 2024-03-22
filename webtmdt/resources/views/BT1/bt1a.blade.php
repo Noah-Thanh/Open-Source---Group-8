@@ -1,0 +1,1 @@
+<h1>Kết quả: {{$chuoi_in_hoa}}</h1>
