@@ -121,3 +121,7 @@ function chucnang2()
     echo "Chức năng 2";
 }
 
+function chucnangcuatui()
+{
+    echo "Chức năng của tui";
+}

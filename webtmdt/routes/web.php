@@ -35,3 +35,4 @@ Route::get("/qlsach/thongke","App\Http\Controllers\BookController@laythongke");
 
 Route::get("/chucnang1","App\Http\Controllers\ViDuController@chucnang1");
 Route::get("/chucnang2","App\Http\Controllers\ViDuController@chucnang2");
+Route::get("/chucnangcuatui","App\Http\Controllers\ViDuController@chucnangcuatui");
