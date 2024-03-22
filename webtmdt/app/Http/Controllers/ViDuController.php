@@ -116,3 +116,8 @@ function xuat($mangThongTinSinhVien)
         echo "Chức năng 1";
     }
 }
+function chucnang2()
+{
+    echo "Chức năng 2";
+}
+
