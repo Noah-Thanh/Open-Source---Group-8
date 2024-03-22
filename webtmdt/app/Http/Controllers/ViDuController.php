@@ -120,4 +120,7 @@ function chucnang2()
 {
     echo "Chức năng 2";
 }
-
+function chucnangNgan()
+{
+    echo "Chức năng Ngân";
+}
