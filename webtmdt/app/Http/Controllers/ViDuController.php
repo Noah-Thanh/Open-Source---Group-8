@@ -75,6 +75,7 @@ class ViDuController extends Controller
     }}
 */
 //bth4
+/*
 function bth4(){
     return view('bth4');}
     function dssv($danhSachSinhVien)
@@ -108,5 +109,10 @@ function xuat($mangThongTinSinhVien)
     }
     $bangSinhVien .= "</table>";
     return $bangSinhVien;
-}   
+}
+*/
+    function chucnang1()
+    {
+        echo "Chức năng 1";
+    }
 }
